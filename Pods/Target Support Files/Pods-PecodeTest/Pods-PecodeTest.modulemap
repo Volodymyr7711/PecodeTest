@@ -1,0 +1,6 @@
+framework module Pods_PecodeTest {
+  umbrella header "Pods-PecodeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
